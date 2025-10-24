@@ -37,8 +37,8 @@ Found a typo or want to suggest improvements? Feel free to open an issue or subm
 ## 🔗 Connect
 
 - **Website**: [electe.net](https://electe.net)
-- **LinkedIn**: [Fabio Lauria](https://www.linkedin.com/in/fabio-lauria)
-- **X/Twitter**: [@fabiolauria92](https://x.com/fabiolauria92)
+- **LinkedIn**: [Electe](https://www.linkedin.com/company/electe/)
+- **X/Twitter**: [@ElecteSrl](https://x.com/ElecteSrl)
 
 ---
 

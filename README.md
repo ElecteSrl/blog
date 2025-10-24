@@ -42,4 +42,4 @@ Found a typo or want to suggest improvements? Feel free to open an issue or subm
 
 ---
 
-© 2025 ELECTE S.R.L. - Built with ❤️ in Milan 🇮🇹
+© 2025 ELECTE S.R.L. - Built with ❤️ 

@@ -8,7 +8,7 @@ This repository contains the markdown source files for our blog articles, automa
 
 **Read our blog**: [electe.net/news](https://www.electe.net/news)
 
-Articles are also available on [Hashnode](https://fabiolauria.hashnode.dev) and [daily.dev](https://daily.dev).
+Articles are also available on [Hashnode](https://fabiolauria.hashnode.dev) and [daily.dev](https://app.daily.dev/fabiolauria).
 
 ## 🎯 Topics
 

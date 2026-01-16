@@ -20,7 +20,7 @@ Articles are also available on [Hashnode](https://fabiolauria.hashnode.dev) and 
 
 ## 📬 Newsletter
 
-Join 15,000+ subscribers and get AI insights delivered to your inbox.
+Join 40,000+ subscribers and get AI insights delivered to your inbox.
 
 **[Subscribe here](https://magic.beehiiv.com/v1/648654e3-349f-4522-a74d-4bc3773c8864?email=)**
 
